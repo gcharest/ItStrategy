@@ -1,0 +1,1 @@
+[Scrum Guide](https://www.scrumguides.org/scrum-guide.html#team)
