@@ -1,4 +1,6 @@
-DORA - State of Devops, 2018 (10/10)
+[DORA - Accelerate: State of Devops, 2018](https://cloudplatformonline.com/rs/248-TPC-286/images/DORA-State%20of%20DevOps.pdf)
+
+[Puppet + Dora - State of DevOps Report, 2017](https://devops-research.com/assets/state-of-devops-2017.pdf)
 
 Widener, S. K. (2007). An empirical analysis of the levers of control framework. Accounting, organizations and society
 
