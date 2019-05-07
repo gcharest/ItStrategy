@@ -8,7 +8,7 @@
 |1:45|TBS: Guillaume Talk |Working in the Open - Leadership is found across the Government|
 |1:55|CDS: William's Tech Talk|CICD Pipeline|
 |2:05|TC: Robert R|Mgmt. Perspective on DevOps |
-|2:15|Discuss cool projects & annoyances ||
+|2:15|Discuss|Cool projects & annoyances|
 |2:25|Break||
 |2:35|TBS: Scott Levac Talk|Stratosphere Event |
 |2:45|Discuss our guiding principles|Informal; Increase intergovernmental collaboration; Systems Approach; Be As Non-Governmental and Pro-Government; Work in the open|
